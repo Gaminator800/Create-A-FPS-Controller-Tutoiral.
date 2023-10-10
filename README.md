@@ -22,7 +22,7 @@ Then you add the gameoject node for the camera below the public class name, the 
     public float gravity = 10f;
 ```
 
-Then the Mouse looks nodes
+Then the Mouse looks limit nodes to preventing it from looking to high or too low.
 
 ```.cs
     public float lookSpeed = 2f;
