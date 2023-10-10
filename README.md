@@ -15,6 +15,7 @@ Before you add movenet you add this on top of the public class `Name`.
 
 Then you add the gameoject node for the camera below the public class name, the movement nodes.
 ```.cs
+{
     public Camera playerCamera;
     public float walkSpeed = 6f;
     public float runSpeed = 12f;
