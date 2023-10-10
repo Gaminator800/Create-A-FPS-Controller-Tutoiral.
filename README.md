@@ -8,7 +8,7 @@ Start creting a Script folder and the write a script called `FPSController` and 
 
 ## 2. Open up the script with Visual Studio and add these codes in
 
-Before you add movenet you add this on top of the public class `Name`.
+Before you add movenet you add this on top of the public class `FPSController/Whatever you named it on your project`.
 ```.cs
 [RequireComponent(typeof(CharacterController))]
 ```
