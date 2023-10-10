@@ -2,7 +2,7 @@
  
 In this Tutorial I will show you how to make a FPS controller under a minute based on the Tutorial I've watched on YouTube.
 
-## 1. Create a unity project
+## 1. Create a Unity project
 
 Start creting a Script folder and the write a script called `FPSController` and add it into the folder.
 
