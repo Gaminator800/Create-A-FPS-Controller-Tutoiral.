@@ -32,7 +32,11 @@ Then the Mouse looks nodes
     float rotationX = 0;
 
     public bool canMove = true;
+```
 
+Then you add this variable to make the script work properly.
+
+```.cs
     CharacterController characterController;
 ```
 
