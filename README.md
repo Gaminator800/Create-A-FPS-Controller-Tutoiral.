@@ -20,8 +20,9 @@ Then you add the gameoject node for the camera, the movement nodes and the Mosue
     public float runSpeed = 12f;
     public float jumpPower = 7f;
     public float gravity = 10f;
+```
 
-
+```.cs
     public float lookSpeed = 2f;
     public float lookXLimit = 45f;
 
