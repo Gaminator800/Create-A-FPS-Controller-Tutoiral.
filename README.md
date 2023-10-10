@@ -13,7 +13,7 @@ Before you add movenet you add this on top of the public class `Name`.
 [RequireComponent(typeof(CharacterController))]
 ```
 
-Then you add the gameoject node for the camera, the movement nodes and the Mosue Look nodes.
+Then you add the gameoject node for the camera below the public class name, the movement nodes.
 ```.cs
     public Camera playerCamera;
     public float walkSpeed = 6f;
@@ -21,6 +21,8 @@ Then you add the gameoject node for the camera, the movement nodes and the Mosue
     public float jumpPower = 7f;
     public float gravity = 10f;
 ```
+
+Then the Mouse looks nodes
 
 ```.cs
     public float lookSpeed = 2f;
