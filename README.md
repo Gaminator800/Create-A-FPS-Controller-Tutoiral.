@@ -112,7 +112,7 @@ And last but not least the rotation. (Which I forgot to add at first when I firs
 
 First create a Empty GameObject and call it `Player`, add a capsule component and then you add the `Main Camera` into the player game object.
 
-Once you do that add the `FPSController` Script into `player` and the play test it. and there you have it.
+Once you do that add the `FPSController` Script into `Player` and the play test it. and there you have it.
 
 A player that Move, Jump and Sprint.
 
